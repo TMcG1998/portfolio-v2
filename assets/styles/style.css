@@ -1,0 +1,76 @@
+p {
+    font-size: 1.15rem;
+}
+
+#resume {
+    background-color:#1ff2b6;
+}
+
+#hero {
+    width: 100%;
+    height: 75vh;
+}
+
+#hero-holder {
+    margin-top: 20%;
+}
+
+#hero-name {
+    font-size: 3.55rem;
+    font-weight: 500;
+}
+
+#hero-subtitle {
+    font-size: 3rem;
+    font-weight: 330;
+}
+
+#hero-text {
+    font-size: 1.3rem;
+    padding-bottom: 13%;
+    border-bottom: 2px solid #1ff2b6;
+}
+
+.nav-item, #resume {
+    font-size: 1.2rem;
+}
+
+.section-head {
+    padding-bottom: 2px;
+}
+
+.project-img {
+    max-width: 100%;
+    transition: transform 1s; /* Animation */
+    border-radius: 5px;
+}
+
+.img-holder {
+    padding: 0;
+    border-radius: 5px;
+}
+
+.project {
+    padding: 2.5%;
+    
+}
+
+.project-img:hover {
+    transform: scale(1.4);
+}
+
+#reach-out-div {
+    max-width: 50%;
+    margin: auto;
+    border-bottom: 2px solid #1ff2b6;
+}
+
+.reach-out {
+    display: inline-block;
+    list-style-type: none;
+}
+
+#footer-text {
+    font-size: 0.8rem;
+    font-weight: 80;
+}
