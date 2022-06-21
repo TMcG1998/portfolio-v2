@@ -6,6 +6,11 @@ p {
     background-color:#1ff2b6;
 }
 
+.resume {
+    text-decoration: none;
+    color: black;
+}
+
 #hero {
     width: 100%;
     height: 75vh;
